@@ -6,6 +6,5 @@
     "main": "index.html",
     "title": "DB8 Sample",
     "icon": "icon.png",
-    "largeIcon": "largeIcon.png",
-    "bgImage" : "launchBGImage.png"
+    "largeIcon": "largeIcon.png"
 }
