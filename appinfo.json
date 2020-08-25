@@ -6,5 +6,6 @@
     "main": "index.html",
     "title": "DB8 Sample",
     "icon": "icon.png",
-    "largeIcon": "largeIcon.png"
+    "largeIcon": "largeIcon.png",
+    "requiredPermissions" : ["database"]
 }
